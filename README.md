@@ -10,7 +10,7 @@ Ensure you have the following installed before proceeding:
 
 - **Node.js** – [Download Here](https://nodejs.org/)
 - **npm** (Node Package Manager) – Comes with Node.js
-- **Backend API** (Check [Backend Setup Guide](../backend/README.md)) running on `http://localhost:8000/`
+- **Backend API** (Check [Backend Setup Guide](https://github.com/Abhijeet259/markdownConverterBackend?tab=readme-ov-file)) running on `http://localhost:8000/`
 
 ---
 
